@@ -37,3 +37,6 @@
 
 # Project specific
 build
+
+# Logs
+*.log
